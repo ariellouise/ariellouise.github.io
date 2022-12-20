@@ -580,6 +580,7 @@ ul {
   font-size: 50px;
   font-weight: 900;
   margin-bottom: 50px;
+  padding: 30px;
 }
 .contact .content-left ul li {
   display: inline-block;
@@ -599,12 +600,13 @@ ul {
   margin-bottom: 30px;
 }
 .contact .content-right .row:last-child {
-  margin-bottom: 0;
+  margin-bottom: 0 ;
 }
 .contact .content-right .row .form-control {
   border: 0;
   border-bottom: 1px solid #525252;
   border-radius: 0;
+
   background: transparent;
   padding: 0;
   color: #fff;
