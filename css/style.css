@@ -602,7 +602,7 @@ ul {
 .contact .content-right .row:last-child {
   margin-bottom: 0 ;
 }
-.contact .content-right .row .form-control {
+/* .contact .content-right .row .form-control {
   border: 0;
   border-bottom: 1px solid #525252;
   border-radius: 0;
@@ -617,8 +617,8 @@ ul {
 .contact .content-right .row .form-control:focus {
   outline: 0;
   box-shadow: none;
-  border-color: #ff8c05;
-}
+  border-color: #ff8c05; 
+}*/
 .contact .content-right .button {
   margin-top: 30px;
 }
